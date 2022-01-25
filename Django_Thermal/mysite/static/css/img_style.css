@@ -1,0 +1,34 @@
+body {
+  overflow: hidden;
+}
+
+.images {
+  position: relative;
+  float: left;
+  height: 200px;
+  width: 300px;
+  margin: 2px;
+  border: 1px solid white;
+  z-index: 0;
+}
+.images-selected {
+  border: 1px solid black;
+  background-color: white;
+}
+
+.images-selected > img{
+  opacity: 0.5;
+}
+.images > img{
+  height: 100%;
+}
+.images-magnified{
+  z-index: 1;
+}
+.images-magnified > img{
+  height: 400px;
+  width: 400px;
+  margin-left: -150px;
+  margin-top: -100px;
+  opacity: 0.95;
+}
