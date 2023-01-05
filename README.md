@@ -1,5 +1,16 @@
 # 열화상 감시 시스템
 
+![Home](https://user-images.githubusercontent.com/64760329/210748985-53e1c9f8-a0b6-496a-9994-ca9bc3003580.PNG)
+![Thermal Home Page](https://user-images.githubusercontent.com/64760329/210751995-0a24aac3-e416-4d56-86f5-4d8c39f31a34.gif)
+
+![DB Data](https://user-images.githubusercontent.com/64760329/210748913-b42a9637-4243-4b60-a8c5-4acf2983a894.PNG)
+![Thermal DB](https://user-images.githubusercontent.com/64760329/210751587-9998bdb3-58a7-4d4c-883f-0dd5ece0c540.gif)
+
+
+
+
+
+
 ### 참조사이트
 
 - https://picamera.readthedocs.io/en/release-1.13/recipes1.html
